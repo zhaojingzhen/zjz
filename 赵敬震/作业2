@@ -1,0 +1,11 @@
+git init 初始化仓库
+git config --global user.name ""添加门户
+git config --global user.email ""添加门户邮箱
+git init 初始化一下
+git add 文件名 添加到暂存区
+git status 查看
+git commit -m "描述信息”放置到版本库
+git status 查看
+修改一下文件内容
+git commit -m "描述信息”放置到版本库
+git diff 查看修改
